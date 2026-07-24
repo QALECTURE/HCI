@@ -1,10 +1,3 @@
-````markdown
-# QHO542 Human Computer Interaction  
-# Week 6 Seminar README  
-## Personas, Task Analysis, User Flow Diagrams and Industry UX Tools
-
----
-
 ## Week 6 Seminar Focus
 
 This week is about helping students move from **general HCI analysis** into **structured UX planning**.
